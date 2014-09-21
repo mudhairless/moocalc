@@ -5,7 +5,7 @@ description: A simple onscreen calculator widget
 license: MIT-style
 
 authors:
-- Ebben Feagan (mudhairless) ebben.feagan@gmail.com
+- sir_mud <ebben.feagan@gmail.com>
 
 requires:
 - core/1.5.0: '*'
