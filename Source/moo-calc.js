@@ -14,6 +14,10 @@ requires:
 provides:
 - MooCalc
 
+...
+
+Examples available at: http://mud.owlbox.net/files/mootools/MooCalc/Examples/example2.html and http://mud.owlbox.net/files/mootools/MooCalc/Examples/example1.html
+
 */
 
 (function () {
