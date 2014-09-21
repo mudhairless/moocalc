@@ -1,0 +1,112 @@
+	#calc {
+		width: 160px;
+		font-family: "Tahoma", monospace;
+	}
+	.mooCalc {
+		width: 300px;
+		min-height: 200px;
+		background-color: #dedede;
+		border: 5px solid #1A1A1A;
+		border-radius: 10px;
+		-moz-box-shadow: 10px 10px 5px #888;
+		-webkit-box-shadow: 10px 10px 5px #888;
+		box-shadow: 10px 10px 5px #888;	
+	}
+	.mooCalc .buttonAndOpContainer {
+		width: 150px;
+		float: left;
+	}
+	.mooCalc select {
+		width: 140px;
+		margin-left: 5px;
+		height: 32px;
+	}
+	.mooCalc input[type=button]{
+		padding: 5px;
+		border-radius:10px;
+		float: right;
+		margin: 2px;
+		border-top-color: #fff;
+		border-left-color: #fff;
+		border-right-color: #a1a1a1;
+		border-bottom-color: #a1a1a1;
+	}
+	
+	.mooCalc .buttonContainer {
+		margin-top: 5px;
+		width: 100px;
+		float:left;
+	}
+	.mooCalc .clearContainer {
+		width: 110px;
+		margin-left: 5px;
+		float: left;
+	}
+	.mooCalc .clearContainer input {
+		float: left;
+		color: #FFF;
+		background-color: #A51010;
+	}
+	.mooCalc .opContainer {
+		width: 30px;
+		float: right;	
+		margin-right: 5px;
+		margin-top: 5px;
+		
+	}
+	.mooCalc .opContainer input {
+		color: #fff;
+		background-color: #444;	
+	}
+	.mooCalc .funcContainer {
+		margin-right: 5px;
+		width: 140px;
+		float: right;
+	}
+	.mooCalc .convContainer {
+		margin-right: 5px;
+		margin: 5px;
+	}
+	.mooCalc .convContainer input {
+		color: #fff;
+		background-color: #444;	
+	}
+	.mooCalc .convContainer .unitconvertleft {
+		width: 65px;
+	}
+	.mooCalc .convContainer .unitconvertright {
+		display: inline;
+		width: 65px;
+	}
+	.mooCalc .funcContainer input {
+		color: #fff;
+		background-color: #444;	
+	}
+	.selectedButton {
+		background-color: #A51010 !important;
+		border-top-color: #a1a1a1 !important;
+		border-left-color: #a1a1a1 !important;
+		border-right-color: #fff !important;
+		border-bottom-color: #fff !important;
+	}
+	
+	.selectedWButton {
+		border-top-color: #a1a1a1 !important;
+		border-left-color: #a1a1a1 !important;
+		border-right-color: #fff !important;
+		border-bottom-color: #fff !important;
+	}
+	
+	.selectedRButton {
+		color: #000 !important;
+		background-color: #ffff7d !important;
+		border-top-color: #a1a1a1 !important;
+		border-left-color: #a1a1a1 !important;
+		border-right-color: #fff !important;
+		border-bottom-color: #fff !important;
+	}
+	.mooCalc .closeContainer input {
+		float: left;
+		color: #fff;
+		background-color: #0B3095;
+	}
