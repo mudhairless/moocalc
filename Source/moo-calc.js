@@ -1,6 +1,6 @@
 /*
 ---
-description:
+description: A simple onscreen calculator widget
 
 license: MIT-style
 
